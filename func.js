@@ -1,3 +1,3 @@
 function sumTen(x)=>{
-	return x+10;
+	return x+20;
 }
